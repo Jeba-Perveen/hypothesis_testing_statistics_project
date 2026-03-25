@@ -18,7 +18,7 @@
 [Project Overview](#project-overview)
 [Objectives](#objectives)
 [Dataset](#dataset)
-[Tools \& Technologies](#tools--technologies-used)
+[Tools & Technologies](#tools--technologies-used)
 [Project Workflow](#project-workflow)
 [How to Run the Project](#how-to-run-the-project)
 [Analysis Performed](#analysis-performed)
