@@ -88,12 +88,14 @@ The analysis includes data cleaning, exploratory data analysis (EDA), and hypoth
 - Identified patterns in customer behavior
 
 ## Project Structure
+```
  statistical-analysis-project
  ┣  statistics analysis.ipynb
  ┣  README.md
  ┣  report.pdf
  ┗  data
     ┗ 📄 yellow_tripdata_2020-01(1).csv
+```
 
 ## Conclusion
 
